@@ -8,4 +8,6 @@ For my midterm project in Semester 4, I created a Snooker Game using JS.p5 and m
 
 Video Link - https://youtu.be/By6aKJ9W4JE
 
+Game Play - https://mz30.github.io/Graphics-Programming-Midterm-University-of-London/
+
 Note: other code & resources used has been credited.
