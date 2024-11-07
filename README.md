@@ -10,4 +10,4 @@ Video Link - https://youtu.be/By6aKJ9W4JE
 
 Game Play - https://maryamzaman30.github.io/Graphics-Programming-Midterm-University-of-London-Snooker-Game/
 
-Note: other code & resources used has been credited.
+Note: others code & resources used has been credited.
